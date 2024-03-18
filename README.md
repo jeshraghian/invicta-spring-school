@@ -6,7 +6,7 @@ spiking neural networks presented at the INVICTA Spring School
 (Porto, Portugal) for the workshop *Training Brain-Inspired Spiking Neural Networks using Lessons from Deep Learning* 
 presented by [Jason Eshraghian](https:///ncg.ucsc.edu).
 
-![Abstract](/static/hls4nm-flow-horizontal.png)
+![Abstract](/static/snntorch.png)
 
 ## Abstract
 
