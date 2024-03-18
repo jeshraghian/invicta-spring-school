@@ -6,7 +6,7 @@ spiking neural networks presented at the INVICTA Spring School
 (Porto, Portugal) for the workshop *Training Brain-Inspired Spiking Neural Networks using Lessons from Deep Learning* 
 presented by [Jason Eshraghian](https:///ncg.ucsc.edu).
 
-![Abstract](/static/hls4nm-flow-horizontal.png)
+![Abstract](/static/snntorch.png)
 
 ## Abstract
 
@@ -26,12 +26,12 @@ There are three tutorial components in this repo:
 
 | Title                                                                                           | Colab Link                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Spiking Neurons from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN.ipynb) |
-| **Cheat-Sheet:** Spiking Neurons from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN_cheatsheet.ipynb) |
-| Training Spiking Neural Networks with [snnTorch](https://github.com/jeshraghian/snntorch) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN.ipynb) |
-| **Cheat-Sheet:** Training Spiking Neural Networks with [snnTorch](https://github.com/jeshraghian/snntorch) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN_cheatsheet.ipynb) |
-| Low-Precision SNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN.ipynb) |
-| **Cheat-Sheet:** Low-Precision SNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-neuromorphic/fpga-snntorch/blob/main/software/ISFPGA_SNN_cheatsheet.ipynb) |
+| Spiking Neurons from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta_pt1.ipynb) |
+| **Cheat-Sheet:** Spiking Neurons from Scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta-pt1-cheatsheet.ipynb) |
+| Training Spiking Neural Networks with [snnTorch](https://github.com/jeshraghian/snntorch) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta_pt2.ipynb) |
+| **Cheat-Sheet:** Training Spiking Neural Networks with [snnTorch](https://github.com/jeshraghian/snntorch) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta-pt2-cheatsheet.ipynb) |
+| Low-Precision SNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta-pt3.ipynb) |
+| **Cheat-Sheet:** Low-Precision SNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeshraghian/invicta-spring-school/blob/main/notebooks/invicta-pt3-cheatsheet.ipynb) |
 
 ## Speaker
 
