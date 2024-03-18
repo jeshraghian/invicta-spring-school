@@ -37,9 +37,6 @@ There are three tutorial components in this repo:
 ## Speaker
 
 ### Jason Eshraghian, Assistant Professor, UC Santa Cruz
-
-<img src="static/jason_eshraghian.jpg" width=300px alt="Jason Eshraghian">
-
 Jason K. Eshraghian received the B.Eng. (electrical and electronic), L.L.B., and
 Ph.D. degrees from The University of Western Australia, Perth, WA, Australia, in
 2016 and 2019, respectively. From 2019 to 2022, he was a Post-Doctoral Research
